@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=InterFontModule
+name=Inter字体模块
+version=v4.0
+versionCode=1
+author=hydroakri (github.com/hydroakri)
+description=Inter Display with default cjk fallback
