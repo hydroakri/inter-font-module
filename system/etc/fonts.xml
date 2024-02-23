@@ -1509,7 +1509,7 @@
         <font weight="400" style="normal">NotoSansSymbols-Regular-Subsetted.ttf</font>
     </family>
     <!-- lxgw 注：自定义 CJK 字体 -->
-    <family lang="zh-Hans">
+    <family lang="en">
         <font weight="100" style="normal">InterDisplay-Thin.otf</font>
         <font weight="200" style="normal">InterDisplay-ExtraLight.otf</font>
         <font weight="300" style="normal">InterDisplay-Light.otf</font>
@@ -1528,6 +1528,17 @@
         <font weight="700" style="italic">InterDisplay-BoldItalic.otf</font>
         <font weight="800" style="italic">InterDisplay-ExtraBoldItalic.otf</font>
         <font weight="900" style="italic">InterDisplay-BlackItalic.otf</font>
+    </family>
+    <family lang="zh-Hans">
+        <font weight="100" style="normal">PingFangSC-Ultralight.otf</font>
+        <font weight="200" style="normal">PingFangSC-Thin.otf</font>
+        <font weight="300" style="normal">PingFangSC-Light.otf</font>
+        <font weight="400" style="normal">PingFangSC-Regular.otf</font>
+        <font weight="500" style="normal">PingFangSC-Medium.otf</font>
+        <font weight="600" style="normal">PingFangSC-SemiBold.otf</font>
+        <font weight="700" style="normal">PingFangSC-SemiBold.otf</font>
+        <font weight="800" style="normal">PingFangSC-SemiBold.otf</font>
+        <font weight="900" style="normal">PingFangSC-SemiBold.otf</font>
     </family>
     <family lang="zh-Hant">
         <font weight="100" style="normal">InterDisplay-Thin.otf</font>
