@@ -1530,15 +1530,24 @@
         <font weight="900" style="italic">InterDisplay-BlackItalic.otf</font>
     </family>
     <family lang="zh-Hans">
-        <font weight="100" style="normal">PingFangSC-Ultralight.otf</font>
-        <font weight="200" style="normal">PingFangSC-Thin.otf</font>
-        <font weight="300" style="normal">PingFangSC-Light.otf</font>
-        <font weight="400" style="normal">PingFangSC-Regular.otf</font>
-        <font weight="500" style="normal">PingFangSC-Medium.otf</font>
-        <font weight="600" style="normal">PingFangSC-SemiBold.otf</font>
-        <font weight="700" style="normal">PingFangSC-SemiBold.otf</font>
-        <font weight="800" style="normal">PingFangSC-SemiBold.otf</font>
-        <font weight="900" style="normal">PingFangSC-SemiBold.otf</font>
+        <font weight="100" style="normal">HarmonyOS_Sans_SC_Thin.ttf</font>
+        <font weight="200" style="normal">HarmonyOS_Sans_SC_Light.ttf</font>
+        <font weight="300" style="normal">HarmonyOS_Sans_SC_Light.ttf</font>
+        <font weight="400" style="normal">HarmonyOS_Sans_SC_Regular.ttf</font>
+        <font weight="500" style="normal">HarmonyOS_Sans_SC_Medium.ttf</font>
+        <font weight="600" style="normal">HarmonyOS_Sans_SC_Bold.ttf</font>
+        <font weight="700" style="normal">HarmonyOS_Sans_SC_Bold.ttf</font>
+        <font weight="800" style="normal">HarmonyOS_Sans_SC_Black.ttf</font>
+        <font weight="900" style="normal">HarmonyOS_Sans_SC_Black.ttf</font>
+        <font weight="100" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="200" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="300" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="400" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="500" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="600" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="700" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="800" style="italic">ZhuqueFangsong-Regular.ttf</font>
+        <font weight="900" style="italic">ZhuqueFangsong-Regular.ttf</font>
     </family>
     <family lang="zh-Hant">
         <font weight="100" style="normal">InterDisplay-Thin.otf</font>
